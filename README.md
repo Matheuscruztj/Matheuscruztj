@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Matheus da Cruz 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Tech Content Creator</em>
+  <em>Senior Software Engineer • Soluctions Architect • Tech Content Creator</em>
 </p>
 
 ---
